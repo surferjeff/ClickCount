@@ -1,5 +1,7 @@
 <template>
-  <p>Hello Vue</p>
+  <div class="bg-green-300 border-green-600 border-b p-4 m-4 rounded">
+    Hello World
+  </div>
 </template>
 
 <script setup lang="ts">
